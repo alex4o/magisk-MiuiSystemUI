@@ -1,0 +1,6 @@
+id=miui-12-remove-navbar
+name=Remove Navigation Bar [MIUI][Xiaomi.eu][Android 10]
+version=v1
+versionCode=1
+author=alex4o
+description=Remove the navigation bar from Miui 12 by replacing MiuiSystemUI.apk 
